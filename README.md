@@ -75,5 +75,7 @@ There are `11 csv files` in this project
   
  * <p align="justify"> <b>Vancouver_Houses_2014-2022 - Uniform data.csv</b> - This file is a compilation of 2 files:- All_Vancouver_Houses - Uniform data.csv and predict_houses_2022 - Uniform data.csv. It consists of values for all Vancouver Houses including the predicted prices and values for houses in 2022 for uniform data. The use of this csv is for comparison purposes.</p>
   
- * **Vancouver_Houses_Avg_Price - from Uniform data.csv** - This file contains <code>average price</code> of 60 houses for each year (2014 - 2022). The use of this csv is for comapring average price over the years.
+ * **Vancouver_Houses_Avg_Price - from Uniform data.csv** - This file contains <code>average price</code> of 60 houses for each year (2014 - 2022). The use of this csv is for comapring average price over the years.<br><br><br>
   
+
+### "Suggestions and project improvements are invited!"	:grinning:
